@@ -42,5 +42,3 @@ This project provides a secure method for hiding and extracting messages inside 
 ## Contributor
 - Prantika Ghosh
 
-## License
-This project is licensed under the MIT License.
